@@ -1,0 +1,43 @@
+
+html {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: lightblue;
+}
+
+header {
+    background-color: lightpink;
+}
+
+h1, h2 {
+    text-align: center;
+    background-color: bisque;
+}
+
+p {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+li {
+    background-color: lightgreen;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.return {
+    background-color: lightcoral;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+.detail {
+    background-color: lightsalmon;
+}
