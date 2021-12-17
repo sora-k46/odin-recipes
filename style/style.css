@@ -2,6 +2,10 @@ html {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body {
+    background-color: lightblue;
+}
+
 h1 {
     background-color: bisque;
     text-align: center;
@@ -9,6 +13,10 @@ h1 {
 
 .box {
     text-align: left;
+}
+
+li {
+    background-color: lightcoral;
 }
 
 a {
